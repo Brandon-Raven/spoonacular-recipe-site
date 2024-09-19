@@ -1,6 +1,6 @@
 # spoonacular-recipes
 
-This is the Spoonacular Recipe Site created for the Blue Cross hiring assesment. 
+This is the Spoonacular Recipe Site created for the Blue Cross hiring assesment. Using this Spoonacular Recipe Site will allow you to interact with the Spoonacular API and retrieve all the recipes you could dream of!
 
 In accordance with the Spoonacular API Terms and Conditions,the API Key has been removed from the application and can be replaced with your personal API Key when setting up the project to run on your local machine.
 
