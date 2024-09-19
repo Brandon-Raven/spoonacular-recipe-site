@@ -1,0 +1,33 @@
+#header-title{
+    font-family: Palatino;
+    font-size: 2.5vmax;
+    margin-left: 10%;
+}
+
+#header-nosearch-title{
+    font-family: Palatino;
+    font-size: 2.5vmax;
+}
+
+.navbar-form-header{
+    width: 30%;
+}
+
+.navbar-input{
+    width: 70%;
+    float: left;
+    margin-right: 1%;
+    padding: 2%;
+    font-size: 1vmax;
+}
+
+.navbar-submit{
+    width: 28%;
+    padding: 2%;
+    font-size: 1vmax;
+}
+
+.fa-spoon{
+    color: #28A745
+}
+

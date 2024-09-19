@@ -1,0 +1,37 @@
+.recipe-title{
+    margin-bottom: 5%;
+}
+
+.health-info{
+    text-decoration: underline;
+    text-underline-offset: 50%;
+    margin-bottom: 3%;
+}
+
+.ingredients{
+    text-decoration: underline;
+    text-underline-offset: 50%;
+    margin-bottom: 3%;
+}
+
+.instructions{
+    text-decoration: underline;
+    text-underline-offset: 50%;
+    margin-bottom: 3%;
+}
+
+
+img{
+    margin: auto;    
+    display: block;
+}
+
+#returnButton:hover{
+    cursor: pointer;
+}
+
+#returnButton{
+    color: #28A745;
+    margin-top: 1%;
+    margin-left: 1%;
+}
